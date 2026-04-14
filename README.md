@@ -1,57 +1,26 @@
-# 👋 Hi, I'm Deepak Mardi
+# Hey, I'm Deepak Mardi
 
-Full Stack Developer | React, Next.js, Node.js, TypeScript | Passionate about building scalable systems & high-performance APIs
+Full stack developer focused on React and Node.js. Currently open to software engineering opportunities.
 
-📍 India (Remote)  
-🌐 [Portfolio]([url](https://www.iamdeepakmardi.xyz/))   
+## What I work with
 
----
+- **Frontend**: React, TypeScript, Next.js, Tailwind CSS
+- **Backend**: Node.js, Express, PostgreSQL, MongoDB
+- **Tools**: Docker, Git, AWS, Postman, Linux
 
-## 💻 Technical Skills
+## Featured Projects
 
-- **Core Engineering**: TypeScript, JavaScript, Node.js, Express, REST APIs  
-- **Frontend**: React, Next.js, Redux, Tailwind CSS  
-- **Backend & Data**: PostgreSQL, MongoDB, Prisma  
-- **Infrastructure & DevOps**: Docker, CI/CD, Linux, Bash  
-- **AI Tools**: GitHub Copilot, Codex, Claude Code, Gemini CLI
+### [Tabula](https://github.com/iamdeepakmardi/tabula) 
+Real-time collaborative whiteboard built with Next.js, Convex, Excalidraw, and EditorJS. Features concurrent editing, role-based access control (RBAC), and persistent state sync.
 
----
+### [MicroMart](https://github.com/iamdeepakmardi/MicroMart)
+Distributed microservices architecture with an API Gateway routing and service-to-service communication. Includes robust cart and order management with automated state sync.
 
-## 🧠 Soft Skills
-- Strong communication & collaboration  
-- Adaptability & willingness to learn  
-- Problem-solving & attention to detail  
-- Meeting deadlines  
-- Proactive
+### [Snapterra](https://github.com/iamdeepakmardi/snapterra)
+Secure media management platform built with Node.js and PostgreSQL. Features efficient storage, image tagging, and fast retrieval.
 
----
+## Contact
 
-## 🖥️ Featured Projects
-
-### 🔹 Tabula – Real-time Collaborative Whiteboard  
-Built a real-time collaborative system with concurrent editing and persistent state sync.  
-- Tech: Next.js, Convex, Excalidraw, EditorJS  
-- Features: Authentication, RBAC, multi-user sync  
-
----
-
-### 🔹 Snapterra – Screenshot Management System  
-Designed a secure media management platform with efficient storage and retrieval.  
-- Tech: Node.js, PostgreSQL, JWT  
-- Features: Uploads, tagging system, fast search, asset organization  
-
----
-
-### 🔹 My Kata Machine – Developer Tool  
-Built a TypeScript-based code generation tool for DSA practice.  
-- Tech: TypeScript, Jest  
-- Features: Automated scaffolding, test generation, workflow optimization  
-
----
-
-## 💌 Contact
-
-I’m open to opportunities, collaborations!
-
-- 📧 Email: [deepakmardi22@gmail.com](mailto:deepakmardi22@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/iamdeepakmardi]([url](https://www.linkedin.com/in/iamdeepakmardi/))
+- **Email**: [deepakmardi22@gmail.com](mailto:deepakmardi22@gmail.com)
+- **LinkedIn**: [linkedin.com/in/iamdeepakmardi](https://linkedin.com/in/iamdeepakmardi)
+- **Portfolio**: [iamdeepakmardi.xyz](https://iamdeepakmardi.xyz)
