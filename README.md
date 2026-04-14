@@ -22,5 +22,5 @@ Secure media management platform built with Node.js and PostgreSQL. Features eff
 ## Contact
 
 - **Email**: [deepakmardi22@gmail.com](mailto:deepakmardi22@gmail.com)
-- **LinkedIn**: [linkedin.com/in/iamdeepakmardi](https://linkedin.com/in/iamdeepakmardi)
+- **LinkedIn**: [linkedin.com/in/iamdeepakmardi](https://linkedin.com/in/deepakmardi)
 - **Portfolio**: [iamdeepakmardi.xyz](https://iamdeepakmardi.xyz)
