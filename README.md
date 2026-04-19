@@ -4,9 +4,9 @@ Full stack developer focused on React and Node.js. Currently open to software en
 
 ## What I work with
 
-- **Frontend**: React, TypeScript, Next.js, Tailwind CSS
-- **Backend**: Node.js, Express, PostgreSQL, MongoDB
-- **Tools**: Docker, Git, AWS, Postman, Linux
+- **Frontend**: React, TypeScript, Next.js, Tailwind CSS, Redux
+- **Backend**: Node.js, Express, PostgreSQL, MongoDB, Convex
+- **Tools**: Docker, AWS, Git, GitHub Actions, Postman, Linux, Cursor
 
 ## Featured Projects
 
@@ -26,4 +26,3 @@ Secure media management platform built with Node.js and PostgreSQL. Features eff
 
 - **Email**: [deepakmardi22@gmail.com](mailto:deepakmardi22@gmail.com)
 - **LinkedIn**: [linkedin.com/in/deepakmardi](https://linkedin.com/in/deepakmardi)
-- **Portfolio**: [iamdeepakmardi.xyz](https://iamdeepakmardi.xyz)
