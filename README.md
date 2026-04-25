@@ -1,28 +1,14 @@
-# Hey, I'm Deepak Mardi
+# Deepak Mardi
 
-Full stack developer focused on React and Node.js. Currently open to software engineering opportunities.
+Full-stack engineer from Bilaspur, India. IIT Kharagpur. Building remote, building in public.
 
-## What I work with
+I turn ideas into working software — from database to UI.
 
-- **Frontend**: React, TypeScript, Next.js, Tailwind CSS, Redux
-- **Backend**: Node.js, Express, PostgreSQL, MongoDB, Convex
-- **Tools**: Docker, AWS, Git, GitHub Actions, Postman, Linux, Cursor
+---
 
-## Featured Projects
+chess player. stargazer. convinced Napoleon Hill was onto something.
 
-### [Tabula](https://github.com/iamdeepakmardi/tabula)
+If you wish to get in touch with me, shoot me a message on my [LinkedIn page](https://www.linkedin.com/in/deepakmardi/)!  
+Or visit my portfolio at [iamdeepakmardi.xyz](https://iamdeepakmardi.xyz)
 
-Real-time collaborative whiteboard built with Next.js, Convex, Excalidraw, and EditorJS. Features concurrent editing, role-based access control (RBAC), and persistent state sync.
-
-### [MicroMart](https://github.com/iamdeepakmardi/MicroMart)
-
-Distributed microservices architecture with an API Gateway routing and service-to-service communication. Includes robust cart and order management with automated state sync.
-
-### [Snapterra](https://github.com/iamdeepakmardi/snapterra)
-
-Secure media management platform built with Node.js and PostgreSQL. Features efficient storage, image tagging, and fast retrieval.
-
-## Contact
-
-- **Email**: [deepakmardi22@gmail.com](mailto:deepakmardi22@gmail.com)
-- **LinkedIn**: [linkedin.com/in/deepakmardi](https://linkedin.com/in/deepakmardi)
+![](https://komarev.com/ghpvc/?username=belikedeep&color=blue)
